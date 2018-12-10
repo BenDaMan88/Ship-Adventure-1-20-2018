@@ -5,10 +5,10 @@ This program is a text based adenvture game with a variety of story paths to cho
 Some example output:
 
 '''
-\***********************************************************
+
                 The Mayflower Exploration
                       By Ben Johnson
-\***********************************************************
+
 
 You are an english explorer on the Mayflower in the middle
 of the 1600's traveling across the Atlantic Ocean looking
@@ -39,4 +39,4 @@ happily ever after.
 
 The End
 
-\***********************************************************'''
+'''
