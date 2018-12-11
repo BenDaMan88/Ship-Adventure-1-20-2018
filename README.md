@@ -4,6 +4,8 @@ This program is a text based adenvture game with a variety of story paths to cho
 
 All ideas and story by Ben Johnson
 
+**This program was made for an assignment in a Computer Science class, DO NOT copy for commercial use.**
+
 Some example output:
 
 
