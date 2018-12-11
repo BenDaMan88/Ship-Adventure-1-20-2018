@@ -2,6 +2,8 @@
 
 This program is a text based adenvture game with a variety of story paths to choose. The game was made with C++. The story involves an explorer who sails to the new world. 
 
+All ideas and story by Ben Johnson
+
 Some example output:
 
 
